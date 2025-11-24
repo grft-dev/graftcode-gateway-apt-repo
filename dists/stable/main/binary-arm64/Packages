@@ -1,0 +1,15 @@
+Package: gg
+Architecture: arm64
+Depends: libc6 (>= 2.38), libgcc-s1 (>= 4.5), libssl3t64 (>= 3.0.0), libstdc++6 (>= 13.1), zlib1g (>= 1:1.2.0)
+Priority: optional
+Section: utils
+Filename: pool/main/g/gg/gg_1.0.6_arm64.deb
+Size: 65911438
+SHA256: 0304d8a4cdd3bab7a744297a473b180d2b197e2338586e3583561297c2ce552e
+SHA1: 4d1d8d11a64b98c2e665879d7739e11141a47235
+MD5sum: 7fc33848098cb29dbb3462b9018afdca
+Description: Graftcode Gateway
+Maintainer: Graftcode Gateway <services@graftcode.com>
+Version: 1.0.6
+Installed-Size: 79377
+

@@ -1,0 +1,7 @@
+Origin: Graftcode
+Label: Graftcode Gateway
+Codename: stable
+Architectures: amd64 arm64
+Components: main
+Description: Graftcode Gateway
+SignWith: 4226667F4F9DA76023C55A4DBBF60DFC848EC695

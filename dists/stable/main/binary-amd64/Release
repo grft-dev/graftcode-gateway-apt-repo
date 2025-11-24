@@ -1,0 +1,5 @@
+Component: main
+Origin: Graftcode
+Label: Graftcode Gateway
+Architecture: amd64
+Description: Graftcode Gateway
