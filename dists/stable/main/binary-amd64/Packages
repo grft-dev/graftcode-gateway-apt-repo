@@ -2,13 +2,13 @@ Package: gg
 Architecture: amd64
 Priority: optional
 Section: utils
-Filename: pool/main/g/gg/gg_1.1.0_amd64.deb
-Size: 97025710
-SHA256: fee6523433758ab9624a696d711f9df2450ce5035240e5b6d45dcefb7081970e
-SHA1: c28430c58c7f46a030eb6e924f3ecb187458d348
-MD5sum: 4a1f6cd3845eb99676448392acf99009
+Filename: pool/main/g/gg/gg_1.1.5_amd64.deb
+Size: 96844132
+SHA256: 9e7ec1467313f651e8d466c81a637782ce1a4fc929c5ec91bb740f34a4ac4fa8
+SHA1: 870bea1f6bd3bb7673acf662f43e9eab90c6b338
+MD5sum: 52fccab487e63a98468c2650795ee38f
 Description: Graftcode Gateway
 Maintainer: Graftcode Gateway <services@graftcode.com>
-Version: 1.1.0
-Installed-Size: 110198
+Version: 1.1.5
+Installed-Size: 109984
 

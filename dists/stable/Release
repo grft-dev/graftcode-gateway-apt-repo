@@ -1,28 +1,28 @@
 Origin: Graftcode
 Label: Graftcode Gateway
 Codename: stable
-Date: Mon, 29 Dec 2025 10:27:04 UTC
+Date: Mon, 19 Jan 2026 08:54:27 UTC
 Architectures: amd64 arm64
 Components: main
 Description: Graftcode Gateway
 MD5Sum:
- 5a684722cbb78b2f082d648022d7f80f 411 main/binary-amd64/Packages
- 6ca10a41beb3d3bae92a5a1867e6b724 315 main/binary-amd64/Packages.gz
+ 7ae9d49be8ca9fdad7f39529c4456ed8 411 main/binary-amd64/Packages
+ c5ed37dd861866798e05ca33b63a8838 313 main/binary-amd64/Packages.gz
  1571b2defe00bb5f64b65935e48ae001 110 main/binary-amd64/Release
- 04ef96194a54685f8d8a3772259273a3 524 main/binary-arm64/Packages
- 7ba978b45c35a0a35fd2f82c23d71dc7 382 main/binary-arm64/Packages.gz
+ 4209b2a390da994b215ad6840dafc61f 524 main/binary-arm64/Packages
+ a5536bc2a33f01023ae4a793e29916e0 384 main/binary-arm64/Packages.gz
  d621db70472891c155af8a9e7d1bec50 110 main/binary-arm64/Release
 SHA1:
- 0e888203e94a28227e9e8884c17e9de11c06f74e 411 main/binary-amd64/Packages
- d6d0908493d33988bf550c105dcf7d99542bd061 315 main/binary-amd64/Packages.gz
+ 47a2dfefc656bd35e21f1ba0724875ecc89abff3 411 main/binary-amd64/Packages
+ d440f007af9d58b8c925ed86a745385301a523dd 313 main/binary-amd64/Packages.gz
  6a1f31ccf184dc56d09647e06528ebfd0ad80a5c 110 main/binary-amd64/Release
- e0619dfe3749aa3ece2593d1bef1aa726680bf38 524 main/binary-arm64/Packages
- 664e7f122cca0815bc745310059f9ad7a37e611f 382 main/binary-arm64/Packages.gz
+ 0743df95897f802dabd13a268cb6a2492cb9c83f 524 main/binary-arm64/Packages
+ 7da4929d7a1ca07abed368a16ff0a9f16e5e4321 384 main/binary-arm64/Packages.gz
  703cf1e2d00c6030ba74d5961816c2f620749acc 110 main/binary-arm64/Release
 SHA256:
- f31a47d9e9b314d602569c488f365d09a6d67c0fccb353837a419e7184c39f06 411 main/binary-amd64/Packages
- 9e654a02e69d618735e40c30a03629ca6e25283a7d6a704e28e662c4b7300308 315 main/binary-amd64/Packages.gz
+ 1acb64c6ba70ffd41fb9e338913627fecd9432fc14aa4ada7292bfe3291ef563 411 main/binary-amd64/Packages
+ cac69483c65cd590caa8f6e2436ef691ab36359679984ac3650e9f757163c918 313 main/binary-amd64/Packages.gz
  fde5747300db39a2c36576fb9c1bb37d091f9f38c16cac89259fa99b4e5df046 110 main/binary-amd64/Release
- 487ad0d678977191f54aeb458d87bed5af2b279056660b7dc530943ab1027686 524 main/binary-arm64/Packages
- 454116ec6a36d2bb62319261faa9647b5530c1e358408bb73209bf4d6b7e462b 382 main/binary-arm64/Packages.gz
+ 5d5cf883952b523c1aaf0ab7baf539bfcde91ec622f4e5b8f0d7bd30c646e4a2 524 main/binary-arm64/Packages
+ 8f6e20048667f69c805cf567e215beeb0e692c4bdc177f79ca10492222c99183 384 main/binary-arm64/Packages.gz
  0c773fd587fe808b5b89bd4c7e34e39f135a71dbf1062c30d84a77df43ef59f6 110 main/binary-arm64/Release

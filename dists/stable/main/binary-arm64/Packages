@@ -3,13 +3,13 @@ Architecture: arm64
 Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libssl3 (>= 3.0.0~~alpha1), libstdc++6 (>= 12), zlib1g (>= 1:1.2.0)
 Priority: optional
 Section: utils
-Filename: pool/main/g/gg/gg_1.1.0_arm64.deb
-Size: 64560608
-SHA256: b74040c191dea5b3531708d07004bad80d97a7dac12de1762b0d0c918541ebdb
-SHA1: 73412441125ee040cd547a5a749faf9f0d5767e3
-MD5sum: 358eaf6929b204814b1a9995357f0925
+Filename: pool/main/g/gg/gg_1.1.5_arm64.deb
+Size: 64265998
+SHA256: 7d17b6ff414c53eb062280d52fd5ed9fabf92dbbdd9e937ca83604d1bb3102dc
+SHA1: 8a10db62c5c3c5b42d9eb1f9ceb7397ab5c065f8
+MD5sum: 2061366a62408aa6389db052b7ba1030
 Description: Graftcode Gateway
 Maintainer: Graftcode Gateway <services@graftcode.com>
-Version: 1.1.0
-Installed-Size: 77935
+Version: 1.1.5
+Installed-Size: 77583
 
